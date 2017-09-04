@@ -6,7 +6,9 @@ REQUIREMENTS :
 1. Node
 2. npm
 3.JSON server 
+
 4. LAMP server in linux.
+
 -------------------------
 Installing Node and npm :  (linux users)
 _________________________
